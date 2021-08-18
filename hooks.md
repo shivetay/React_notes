@@ -34,6 +34,8 @@ const Products = () => {
 export default Products;
 ```
 
+### with typescript
+
 ```
 import React, { useState } from 'react';
 import { useDispatch } from 'react-redux';
